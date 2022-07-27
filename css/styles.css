@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color:  #E5E5E5;
+}
+.It-bg-light{
+  background-color: #fcfcfc;
+}
+.set-line{
+    width: 200px;
+}
