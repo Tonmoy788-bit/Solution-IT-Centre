@@ -5,6 +5,6 @@ body{
 .It-bg-light{
   background-color: #fcfcfc;
 }
-.set-line{
-    width: 200px;
+.text-liner{
+    color: rgba(112, 112, 247, 0.767);
 }
