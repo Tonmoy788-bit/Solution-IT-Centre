@@ -11,3 +11,6 @@ body{
 .item-color{
     background-color: rgba(203, 240, 252, 0.945);
 }
+.footer-item{
+    background-color: rgba(0, 0, 0, 0.2);
+}
